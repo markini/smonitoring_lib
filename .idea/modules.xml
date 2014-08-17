@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ServiceMonitoring.iml" filepath="$PROJECT_DIR$/ServiceMonitoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/monitoringlib/monitoringlib.iml" filepath="$PROJECT_DIR$/monitoringlib/monitoringlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smonitoring_lib.iml" filepath="$PROJECT_DIR$/smonitoring_lib.iml" />
+    </modules>
+  </component>
+</project>
+
